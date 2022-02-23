@@ -1,0 +1,4 @@
+i=1
+for in in ragne(1,101)
+    print(i)
+    i=i+1
