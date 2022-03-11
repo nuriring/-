@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block content %}
+ <h1>EDIT</h1>
+ <form action="" method="POST">
+  <!--input type:hidden--> 
+  {% csrf_token %}
+  <label for="title">TITLE : </label>
+  <input type="text" id="title" name="title" value="{{ article.title }}"> <br>
+  
+  <label for="content">CONTENT : </label>
+  <textarea id="content" name="content" cols="30" rows="10" >{{ article.content }}</textarea>
+  <br>
+
+  <input type="submit" value="수정">
+ </form>
+{% endblock content %}
