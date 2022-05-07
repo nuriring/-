@@ -276,12 +276,12 @@ for i in range(1<<n): #000000~111111 #부분집합의 개수
 
 ```python
 def selectionSort(a,N):
-    for i in range(N-1): #i는 0에서 N-2까지  
+    for i in range(N-1): #i는 0에서 N-2까지
         minidx = i
         for j in range(i+1,N): #j는 i자기자신 제외하고 N-1까지 비교해주면
             if a[minidx]>a[j]:
-                mindix=j
-        a[i],a[mindix] = a[mindix],a[i] #N번째는 자동으로 가장 큰 수 
+                minidx=j
+        a[i],a[minidx] = a[minidx],a[i]
             
 ```
 

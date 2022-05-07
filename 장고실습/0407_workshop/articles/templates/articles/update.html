@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% load bootstrap5 %}
+
+{% block content %}
+<h1>UPDATE</h1>
+<form action="" method='POST'>
+  {% csrf_token %}
+  {% comment %} {{ form.as_p }} {% endcomment %}
+  {% bootstrap_form form layout='horizontal' %}
+  {% buttons submit="Submit" reset="Cancel" %}{% endbuttons %}
+  {% comment %} <input type="submit" value="UPDATE"> {% endcomment %}
+
+  <a href=" {% url 'articles:index' %} " class="btn btn-primary">BACK</a>
+</form>
+<hr>
+{% endblock content %}
+

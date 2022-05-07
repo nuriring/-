@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<h1>CREATE</h1>
+<form action="{% url 'articles:create' %}" method="POST">
+  {% csrf_token %}
+  {{ form.as_p }}   
+  <input type="submit" class="btn btn-primary" value="CREATE">
+  <a href=" {% url 'articles:index' %} " class="btn btn-primary">BACK</a>
+</form>
+
+
+ 
+{% comment %} <form action="" method="POST">
+  {% csrf_token %}  
+  <div class="text-primary">
+    {{ form.title.errors }}
+    {{ form.title.label_tag }}
+    {{ form.title }}
+  </div>
+  <input type="submit" value="CREATE">
+</form>
+
+  <hr>
+  <form action="" method = "POST">
+    {% csrf_token %}
+    {% for field in form %}
+      {{ field.erors }}
+      {{ field.label_tag }}
+      {{ field }}
+    {% endfor %}
+    <input type="submit" value="CREATE">
+
+
+  </form> {% endcomment %}
+{% endblock content %}
+

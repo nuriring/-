@@ -1,0 +1,112 @@
+[
+{
+    "model": "articles.comment",
+    "pk": 1,
+    "fields": {
+        "article": 7,
+        "user": 2,
+        "content": "Cut picture many total soldier mouth represent.\nReflect such study catch dog. Interest whatever matter organization suddenly possible arm. Party forget could four activity explain.",
+        "created_at": "2010-12-06T15:25:47Z",
+        "updated_at": "1984-07-04T23:25:29Z"
+    }
+},
+{
+    "model": "articles.comment",
+    "pk": 2,
+    "fields": {
+        "article": 9,
+        "user": 7,
+        "content": "Ever bill space truth while institution beat minute. Her attention quite dog director assume scene. Seven turn single throw about.",
+        "created_at": "2003-03-27T22:33:09Z",
+        "updated_at": "1994-08-29T20:57:53Z"
+    }
+},
+{
+    "model": "articles.comment",
+    "pk": 3,
+    "fields": {
+        "article": 5,
+        "user": 4,
+        "content": "Foreign newspaper yourself compare anything available west. Seek wonder business amount animal would.\nHer take economy director institution. Control visit more develop international.",
+        "created_at": "1997-09-12T19:43:20Z",
+        "updated_at": "1979-12-03T11:31:05Z"
+    }
+},
+{
+    "model": "articles.comment",
+    "pk": 4,
+    "fields": {
+        "article": 9,
+        "user": 6,
+        "content": "Quickly growth back lot anything station. Indeed play population appear community society act. Himself anyone act.",
+        "created_at": "1988-05-30T01:54:12Z",
+        "updated_at": "1987-06-04T09:58:56Z"
+    }
+},
+{
+    "model": "articles.comment",
+    "pk": 5,
+    "fields": {
+        "article": 10,
+        "user": 6,
+        "content": "History yard within contain game. Voice such plant perhaps hot difference.\nShare hit interview foreign investment. Material true in pass father significant. Free reality president me.",
+        "created_at": "1990-01-29T19:28:22Z",
+        "updated_at": "2019-01-04T16:17:56Z"
+    }
+},
+{
+    "model": "articles.comment",
+    "pk": 6,
+    "fields": {
+        "article": 6,
+        "user": 2,
+        "content": "Factor film cold in skill us must. Manage cell end similar company. Leave responsibility well model daughter under.\nTrue throw skin meet sort care. Ago culture ever send.",
+        "created_at": "1998-12-23T13:57:38Z",
+        "updated_at": "1982-05-27T01:15:35Z"
+    }
+},
+{
+    "model": "articles.comment",
+    "pk": 7,
+    "fields": {
+        "article": 2,
+        "user": 1,
+        "content": "Name mouth collection whole. Quickly pattern television accept.",
+        "created_at": "1973-08-22T03:21:26Z",
+        "updated_at": "1981-11-30T17:59:32Z"
+    }
+},
+{
+    "model": "articles.comment",
+    "pk": 8,
+    "fields": {
+        "article": 9,
+        "user": 9,
+        "content": "Analysis fund beat center stand bar analysis. Its sing region job evidence.\nBehavior woman will own enter. Suddenly little choice. Make professional probably hope man manager.",
+        "created_at": "1975-03-24T19:45:42Z",
+        "updated_at": "2006-05-09T10:16:55Z"
+    }
+},
+{
+    "model": "articles.comment",
+    "pk": 9,
+    "fields": {
+        "article": 2,
+        "user": 4,
+        "content": "Rule operation beat seek suddenly up. Shoulder training fly box huge health.\nNext follow appear result fact. Short end protect produce often itself entire. Brother financial yourself.",
+        "created_at": "1988-01-03T16:41:11Z",
+        "updated_at": "1987-07-07T12:58:32Z"
+    }
+},
+{
+    "model": "articles.comment",
+    "pk": 10,
+    "fields": {
+        "article": 6,
+        "user": 2,
+        "content": "Important government common while foot best message. Piece politics toward let fill spend scientist also. Career market southern shoulder produce.",
+        "created_at": "1986-08-01T11:42:00Z",
+        "updated_at": "1998-06-16T19:56:59Z"
+    }
+}
+]

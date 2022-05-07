@@ -1,0 +1,112 @@
+[
+{
+    "model": "articles.article",
+    "pk": 1,
+    "fields": {
+        "user": 10,
+        "title": "This write",
+        "content": "Production sometimes each central. Matter door within three church. Half where writer summer. Important almost number attention yard.",
+        "created_at": "2006-03-06T07:02:36Z",
+        "updated_at": "1979-05-11T16:05:18Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 2,
+    "fields": {
+        "user": 6,
+        "title": "Exist tria",
+        "content": "Hundred current certain yes run. Toward someone somebody answer claim although fund.",
+        "created_at": "1982-07-31T14:09:08Z",
+        "updated_at": "2021-08-22T19:42:18Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 3,
+    "fields": {
+        "user": 6,
+        "title": "Do least s",
+        "content": "Which popular pick by few goal theory. Section data adult lose.\nBag make none item laugh future significant. Time development dog difficult cover left.",
+        "created_at": "2015-03-30T04:20:47Z",
+        "updated_at": "1992-07-21T14:43:04Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 4,
+    "fields": {
+        "user": 2,
+        "title": "Exactly la",
+        "content": "Yes clearly certain face quickly only. Computer himself reason measure young. Consumer line with offer show.",
+        "created_at": "2011-06-30T22:32:22Z",
+        "updated_at": "2012-08-05T16:13:07Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 5,
+    "fields": {
+        "user": 8,
+        "title": "You left b",
+        "content": "Us question she administration all defense civil. Prove form along new popular.\nSituation up sometimes idea. Add current career similar sit media guy. Fill American situation benefit realize.",
+        "created_at": "1975-01-29T07:21:48Z",
+        "updated_at": "1971-01-31T15:58:09Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 6,
+    "fields": {
+        "user": 9,
+        "title": "Concern pa",
+        "content": "Have recently again run interesting yard. Feel example issue relationship American.\nPiece catch move election group. My writer really money question meet.",
+        "created_at": "2018-10-17T18:04:20Z",
+        "updated_at": "2021-03-18T08:28:42Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 7,
+    "fields": {
+        "user": 5,
+        "title": "Improve wh",
+        "content": "Seat free fill inside instead. Child us matter thought itself. Of throughout control perform mind. Rich box part coach green wind.",
+        "created_at": "1987-09-19T17:01:28Z",
+        "updated_at": "2018-04-06T08:11:51Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 8,
+    "fields": {
+        "user": 2,
+        "title": "Finally cu",
+        "content": "High fill first but future though. Nothing foreign yet suffer degree account.\nStar dream approach the itself nation already.",
+        "created_at": "2019-12-04T08:57:01Z",
+        "updated_at": "1970-01-09T02:36:32Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 9,
+    "fields": {
+        "user": 6,
+        "title": "Argue west",
+        "content": "Space institution true writer start phone tonight. Off weight month third turn reach others there.",
+        "created_at": "2005-06-02T02:18:47Z",
+        "updated_at": "1987-08-17T20:05:54Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 10,
+    "fields": {
+        "user": 1,
+        "title": "Think have",
+        "content": "Environment receive trip green. Her use toward example. Radio fly poor main space.\nProduct agency more these.\nDrive rich democratic. Among campaign century film hard dark.",
+        "created_at": "1985-03-28T02:58:03Z",
+        "updated_at": "2009-04-29T06:05:38Z"
+    }
+}
+]

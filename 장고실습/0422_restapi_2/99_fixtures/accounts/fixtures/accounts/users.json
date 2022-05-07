@@ -1,0 +1,182 @@
+[
+{
+    "model": "accounts.user",
+    "pk": 1,
+    "fields": {
+        "password": "Town believe off view goal. Gun seven cover control share soldier.\nThus determine so class recently base plant.",
+        "last_login": "1980-02-12T21:05:05Z",
+        "is_superuser": false,
+        "username": "dan10",
+        "first_name": "Kaitlin",
+        "last_name": "Pacheco",
+        "email": "franklinjacqueline@example.org",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-04-22T01:12:03.397Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 2,
+    "fields": {
+        "password": "Make allow paper teach look alone often. Person condition article serious. Save instead hold cause special door claim cup.",
+        "last_login": "2015-11-01T10:25:58Z",
+        "is_superuser": false,
+        "username": "josephsmith",
+        "first_name": "Herbert",
+        "last_name": "Weber",
+        "email": "ugreen@example.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-04-22T01:12:03.397Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 3,
+    "fields": {
+        "password": "Along few more yourself truth read laugh. Pattern must woman ball because pattern day.",
+        "last_login": "2012-10-09T15:25:52Z",
+        "is_superuser": false,
+        "username": "egarner",
+        "first_name": "Nicholas",
+        "last_name": "Mitchell",
+        "email": "jsullivan@example.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-04-22T01:12:03.397Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 4,
+    "fields": {
+        "password": "Charge place brother fly down cover. Meet window seem.",
+        "last_login": "2001-06-24T00:24:11Z",
+        "is_superuser": false,
+        "username": "john31",
+        "first_name": "Mary",
+        "last_name": "Sullivan",
+        "email": "ronaldbrown@example.org",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-04-22T01:12:03.397Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 5,
+    "fields": {
+        "password": "Occur section country front skin. Name agree run respond stock opportunity growth.",
+        "last_login": "2021-03-28T05:34:53Z",
+        "is_superuser": false,
+        "username": "davidwilliams",
+        "first_name": "Jacqueline",
+        "last_name": "Johnson",
+        "email": "santosrichard@example.net",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-04-22T01:12:03.397Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 6,
+    "fields": {
+        "password": "Feeling research choose perform move record.\nTree him issue theory bad wide. Front important walk them simple contain size.",
+        "last_login": "2000-10-20T06:13:57Z",
+        "is_superuser": true,
+        "username": "crawfordsarah",
+        "first_name": "Thomas",
+        "last_name": "Mejia",
+        "email": "bruce47@example.org",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-04-22T01:12:03.397Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 7,
+    "fields": {
+        "password": "Audience Mr support cost research carry. Lead want here else.\nSpace amount agency. Poor see there suffer he say.",
+        "last_login": "1981-08-05T04:36:43Z",
+        "is_superuser": true,
+        "username": "jamesclark",
+        "first_name": "Paul",
+        "last_name": "Flores",
+        "email": "phyllisjohnson@example.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-04-22T01:12:03.397Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 8,
+    "fields": {
+        "password": "Ahead science manage artist majority. Very challenge there if. High add wall computer.",
+        "last_login": "2020-04-03T18:04:05Z",
+        "is_superuser": true,
+        "username": "eperez",
+        "first_name": "Matthew",
+        "last_name": "Erickson",
+        "email": "cgreen@example.net",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-04-22T01:12:03.397Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 9,
+    "fields": {
+        "password": "Others charge rest family voice onto site. Great hand describe bad black positive bit run.",
+        "last_login": "1997-11-12T20:28:00Z",
+        "is_superuser": true,
+        "username": "xalexander",
+        "first_name": "James",
+        "last_name": "Reed",
+        "email": "xguerrero@example.net",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-04-22T01:12:03.397Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 10,
+    "fields": {
+        "password": "Yet cold black side old program medical. Nothing safe property test form after try trouble. Edge fast my moment.",
+        "last_login": "1988-02-20T03:22:25Z",
+        "is_superuser": true,
+        "username": "kari88",
+        "first_name": "Alison",
+        "last_name": "Tanner",
+        "email": "campbellcraig@example.net",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-04-22T01:12:03.397Z",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]

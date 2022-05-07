@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+  <h1>INDEX PAGE</h1>
+  <a href="">CREATE </a>
+  <form action="">
+    {{ form }}
+  </form>
+  {% for article in articles  %}
+    <p>{{ article.pk }}</p>
+    <p>{{ article.title }}</p>
+  {% endfor %}
+{% endblock content %}

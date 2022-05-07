@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h1>Articles</h1>
+  {% for article in articles %} <!--for문에서 평가될 때 select로 가져온 user도 같이 평가되기 때문-->
+    <h3>작성자 : {{ article.user.username }}</h3> <!--여기서 재평가 x-->
+    <p>제목 : {{ article.title }}</p>
+    <hr>
+  {% endfor %}
+{% endblock content %}
+
